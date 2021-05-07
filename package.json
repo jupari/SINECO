@@ -1,0 +1,15 @@
+{
+  "name": "sineco",
+  "version": "1.0.0",
+  "description": "Sistemas de Negocios Comerciales",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Sistemas",
+    "Negocio"
+  ],
+  "author": "Juan Pablo Rios",
+  "license": "MIT"
+}
